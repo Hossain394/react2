@@ -1,5 +1,5 @@
 .menu{
-    background-color: aqua;
+    background-color: pink;
     height: 40px;
     width: 100%;
 }
@@ -17,6 +17,6 @@ padding: 10px 10px;
     font-size: 20px;
 }
 .menu ul li a:hover{
-    color: blue;
+    color: #fff;
     
 }
