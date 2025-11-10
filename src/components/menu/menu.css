@@ -1,0 +1,22 @@
+.menu{
+    background-color: aqua;
+    height: 40px;
+    width: 100%;
+}
+
+.menu ul li {
+   display: inline-block;
+   
+}
+.menu ul{
+text-align: center;
+padding: 10px 10px;
+}
+.menu ul li a{
+    margin: 0 20px;
+    font-size: 20px;
+}
+.menu ul li a:hover{
+    color: blue;
+    
+}
